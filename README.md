@@ -1,4 +1,5 @@
 # Cálculo de Daño por Zona en Apex Legends 🛡️
+### Nicolas A. Vargas Angarita - Samuel Ayala Quinche
 #### Objetivo
 Evaluar la capacidad del estudiante para analizar un problema, diseñar una solución adecuada, implementarla en dos lenguajes de programación diferentes y documentar apropiadamente todo el proceso.
 ## Análisis del Problema
